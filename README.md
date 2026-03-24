@@ -1,3 +1,8 @@
+![Visitors](https://komarev.com/ghpvc/?username=ElfinAinu&style=flat-square)
+![Followers](https://img.shields.io/github/followers/ElfinAinu?style=flat-square)
+![Stars](https://img.shields.io/github/stars/ElfinAinu?style=flat-square)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FElfinAinu&query=%24.public_repos&label=repos&style=flat-square)
+
 # Hi, I'm Elfinainu
 
 **Python Developer | Data Analysis Specialist | Data-Informed Decision Support**
@@ -12,13 +17,13 @@ I build practical tools and data pipelines that turn raw information into action
 
 ## Projects
 
-| Project | Description |
-|---------|-------------|
-| [AutoRota](https://github.com/Elfinainu/AutoRota) | Automated shift scheduling system for staff management |
-| [Internet-Outage-Logger](https://github.com/Elfinainu/Internet-Outage-Logger) | Logs outages with timestamps, durations, and intervals for reliability analysis |
-| [Speedtest-Ping](https://github.com/Elfinainu/Speedtest-Ping) | Network performance monitoring and data collection |
-| [YoutubeSummarizer](https://github.com/Elfinainu/YoutubeSummarizer) | Automated video content summarisation |
-| [Wallhaven-AutoDownloader](https://github.com/Elfinainu/Wallhaven-AutoDownloader) | Automated wallpaper downloading from Wallhaven |
+| Project                                                                           | Description                                                                     |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [AutoRota](https://github.com/Elfinainu/AutoRota)                                 | Automated shift scheduling system for staff management                          |
+| [Internet-Outage-Logger](https://github.com/Elfinainu/Internet-Outage-Logger)     | Logs outages with timestamps, durations, and intervals for reliability analysis |
+| [Speedtest-Ping](https://github.com/Elfinainu/Speedtest-Ping)                     | Network performance monitoring and data collection                              |
+| [YoutubeSummarizer](https://github.com/Elfinainu/YoutubeSummarizer)               | Automated video content summarisation                                           |
+| [Wallhaven-AutoDownloader](https://github.com/Elfinainu/Wallhaven-AutoDownloader) | Automated wallpaper downloading from Wallhaven                                  |
 
 ## Tech
 
@@ -35,6 +40,14 @@ I build practical tools and data pipelines that turn raw information into action
 
 I'm drawn to problems where a bit of code and some well-structured data can save people time or help them make better decisions. When I'm not writing Python, I'm probably tinkering with my NixOS setup or finding something new to automate.
 
+## GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ElfinAinu&background=0D1117&border=FFFFFF&stroke=58A6FF&ring=1F6FEB&fire=1F6FEB&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElfinAinu&theme=github-dark)
+
+![Languages](./github-languages.svg)
+
 ---
 
-*Always looking to collaborate on data analysis and automation projects. Feel free to explore my repos or reach out.*
+_Always looking to collaborate on data analysis and automation projects. Feel free to explore my repos or reach out._

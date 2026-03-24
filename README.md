@@ -15,15 +15,15 @@ I build practical tools and data pipelines that turn raw information into action
 - **Automation & Tooling** — Building Python tools that eliminate repetitive tasks and keep systems running smoothly
 - **Infrastructure Monitoring** — Tracking network performance and uptime with structured logging for trend analysis
 
-## Projects
+## Highlight Projects
 
-| Project                                                                           | Description                                                                     |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [AutoRota](https://github.com/Elfinainu/AutoRota)                                 | Automated shift scheduling system for staff management                          |
-| [Internet-Outage-Logger](https://github.com/Elfinainu/Internet-Outage-Logger)     | Logs outages with timestamps, durations, and intervals for reliability analysis |
-| [Speedtest-Ping](https://github.com/Elfinainu/Speedtest-Ping)                     | Network performance monitoring and data collection                              |
-| [YoutubeSummarizer](https://github.com/Elfinainu/YoutubeSummarizer)               | Automated video content summarisation                                           |
-| [Wallhaven-AutoDownloader](https://github.com/Elfinainu/Wallhaven-AutoDownloader) | Automated wallpaper downloading from Wallhaven                                  |
+| Project                                                                           | Description                                           |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [AutoRota](https://github.com/Elfinainu/AutoRota)                                 | Automated shift scheduling for staff management       |
+| [ZeitHeist](https://github.com/Elfinainu/ZeitHeist)                               | Multi-source, customisable, current event aggregation |
+| [YoutubeSummarizer](https://github.com/Elfinainu/YoutubeSummarizer)               | Automated video content summarisation                 |
+| [Youtube-Unsubscriber](https://github.com/Elfinainu/Youtube-Unsubscriber)         | Stale YouTube channel subscription removal            |
+| [Wallhaven-AutoDownloader](https://github.com/Elfinainu/Wallhaven-AutoDownloader) | Automated wallpaper search and collection             |
 
 ## Tech
 

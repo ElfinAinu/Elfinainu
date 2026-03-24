@@ -2,6 +2,7 @@
 ![Followers](https://img.shields.io/github/followers/ElfinAinu?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/ElfinAinu?style=flat-square)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FElfinAinu&query=%24.public_repos&label=repos&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/ElfinAinu/ElfinAinu?style=flat-square)
 
 # Hi, I'm Elfinainu
 
